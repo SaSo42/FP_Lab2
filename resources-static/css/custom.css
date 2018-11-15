@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+
+.brand-logo {
+    background-color: rebeccapurple;
+}
+
+.purple-stuff{
+    background-color: rebeccapurple;
+}
